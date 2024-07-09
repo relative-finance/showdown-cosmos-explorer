@@ -1,0 +1,21 @@
+{
+    "chain_name": "showdown",
+    "api": [
+        "http://103.219.171.59:1317"
+    ],
+    "rpc": [
+        "http://103.219.171.59:26657"
+    ],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.6",
+    "coin_type": "60",
+    "min_tx_fee": "800",
+    "addr_prefix": "showdown",
+    "assets": [
+        {
+            "base": "ashdwn",
+            "symbol": "SHDWN",
+            "exponent": "18"
+        }
+    ]
+}
