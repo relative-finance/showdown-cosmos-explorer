@@ -11,6 +11,8 @@
     "coin_type": "60",
     "min_tx_fee": "800",
     "addr_prefix": "showdown",
+    "logo": "/logos/axelar.svg",
+    "theme_color": "#161723",
     "assets": [
         {
             "base": "ashdwn",
