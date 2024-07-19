@@ -1,10 +1,10 @@
 {
     "chain_name": "showdown",
     "api": [
-        "http://cosmos-api.showdownrpc.com"
+        "https://cosmos-api.showdownrpc.com"
     ],
     "rpc": [
-        "http://cosmos-rpc.showdownrpc.com"
+        "https://cosmos-rpc.showdownrpc.com"
     ],
     "snapshot_provider": "",
     "sdk_version": "0.45.6",
